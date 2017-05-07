@@ -1,0 +1,8 @@
+*.log
+*.lock
+*.swp
+node_modules/*
+ORIGINAL-FILES/*
+db/*
+!db/README.md
+

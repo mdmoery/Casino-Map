@@ -1,0 +1,16 @@
+{
+  "name": "casino-map",
+  "version": "1.0.0",
+  "description": "This applications uses the Google Maps API to show a map of all of the casinos in the State of Oklahoma.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Micheal Moery",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.9.7",
+    "restify": "^4.3.0"
+  }
+}
